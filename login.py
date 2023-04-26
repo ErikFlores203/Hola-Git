@@ -11,3 +11,5 @@ def Time(minutes):
 
     print(f'cantidad de horas {hour} con {minute} minutos')
 Time(900)
+
+print("borrar master por main")
